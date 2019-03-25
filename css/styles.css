@@ -183,6 +183,7 @@ time {
 
 #container footer {
   border-top: solid 1px #cecece;
+  text-align: center;
 }
 
 #container footer h6 {
