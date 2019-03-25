@@ -55,21 +55,11 @@ time {
   margin: 0;
   padding: 0;
   list-style: none;
-  float: right;
+  justify-content: center;
 }
 
 #container header ul li {
   margin-left: 1em;
-}
-
-@media only screen and (max-width: 800px) {
-  #container header ul {
-    float: none;
-  }
-
-  #container header ul li {
-    margin: 0 1em 0 0;
-  }
 }
 
 #container nav {
@@ -78,8 +68,8 @@ time {
   font-family: "Ruda", sans-serif;
 }
 
-#container nav ul {
-  margin: 0;
+#social-media, #container nav ul {
+  margin: 2em 0;
   padding: 0;
   list-style: none;
   display: flex;
@@ -87,6 +77,10 @@ time {
 }
 
 #container nav ul li {
+  margin-left: 1.5em;
+}
+
+#social-media li {
   margin-left: 2em;
 }
 
@@ -406,10 +400,4 @@ ul.pagination {
 
 ul.pagination li {
   padding: 0 1em;
-}
-
-@media only screen and (max-width: 800px) {
-  #container nav ul li {
-    margin-left: 1em;
-  }
 }
