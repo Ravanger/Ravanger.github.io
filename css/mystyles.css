@@ -37,8 +37,11 @@
     text-align: center;
 }
 
-#contactform input, #contactform textarea, #contactform button{
+#contactform input,
+#contactform textarea,
+#contactform button {
     display: block;
     margin: 2em auto;
     width: 67%;
+    resize: vertical;
 }
