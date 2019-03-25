@@ -87,7 +87,7 @@ time {
 }
 
 #container nav ul li {
-  margin-left: 5em;
+  margin-left: 2em;
 }
 
 #container nav ul li a.active {
@@ -406,4 +406,10 @@ ul.pagination {
 
 ul.pagination li {
   padding: 0 1em;
+}
+
+@media only screen and (max-width: 800px) {
+  #container nav ul li {
+    margin-left: 1em;
+  }
 }

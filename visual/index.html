@@ -82,8 +82,23 @@
 
     
 
-    <p><script type="text/javascript" src="../js/instagram.js"></script>
-<div id="insta-feed"> </div></p>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="../js/jquery.instagramFeed.min.js"></script>
+
+<script type="text/javascript">
+    $(window).on('load', function () {
+        $.instagramFeed({
+            'username': 'ravanger666',
+            'container': "#instagram-feed",
+            'display_profile': true,
+            'display_biography': false,
+            'margin': 1,
+            'display_gallery': true
+        });
+    });
+</script>
+
+<div id="instagram-feed"></div>
 
 
 </article>

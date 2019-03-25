@@ -17,7 +17,7 @@
       <pubDate>Mon, 25 Mar 2019 00:58:00 -0400</pubDate>
       
       <guid>https://ravanger.github.io/visual/</guid>
-      <description></description>
+      <description>  $(window).on(&#39;load&#39;, function () { $.instagramFeed({ &#39;username&#39;: &#39;ravanger666&#39;, &#39;container&#39;: &#34;#instagram-feed&#34;, &#39;display_profile&#39;: true, &#39;display_biography&#39;: false, &#39;margin&#39;: 1, &#39;display_gallery&#39;: true }); });   </description>
     </item>
     
     <item>
