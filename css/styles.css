@@ -25,13 +25,13 @@ time {
   flex-direction: column;
 }
 
-#container > * {
+#container>* {
   width: 700px;
   margin: 0 auto;
 }
 
 @media only screen and (max-width: 800px) {
-  #container > * {
+  #container>* {
     width: auto;
     margin: 0 1.2em;
   }
@@ -39,6 +39,7 @@ time {
 
 #container header {
   margin-bottom: 1em;
+  text-align: center;
 }
 
 #container header h1 {
@@ -65,6 +66,7 @@ time {
   #container header ul {
     float: none;
   }
+
   #container header ul li {
     margin: 0 1em 0 0;
   }
@@ -81,11 +83,11 @@ time {
   padding: 0;
   list-style: none;
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
 }
 
 #container nav ul li {
-  margin-left: 1em;
+  margin-left: 5em;
 }
 
 #container nav ul li a.active {
@@ -128,7 +130,8 @@ time {
   border-bottom: 1px solid #cecece;
 }
 
-#container main section#list ul li time, #container main section#list ul li span.count {
+#container main section#list ul li time,
+#container main section#list ul li span.count {
   float: right;
 }
 
@@ -192,20 +195,26 @@ time {
   font-size: 0.8em;
 }
 
-.meta-aside, #container main section#home ul li aside, #container main article aside {
+.meta-aside,
+#container main section#home ul li aside,
+#container main article aside {
   margin: 0.5em 0;
   font-family: "Ruda", sans-serif;
   color: #909090;
   font-size: 0.8em;
 }
 
-.meta-aside ul, #container main section#home ul li aside ul, #container main article aside ul {
+.meta-aside ul,
+#container main section#home ul li aside ul,
+#container main article aside ul {
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
-.meta-aside ul li, #container main section#home ul li aside ul li, #container main article aside ul li {
+.meta-aside ul li,
+#container main section#home ul li aside ul li,
+#container main article aside ul li {
   margin: 0;
   padding: 0;
 }
@@ -215,18 +224,25 @@ a {
   text-decoration: none;
 }
 
-.image, figure img, img {
+.image,
+figure img,
+img {
   width: 100%;
   box-shadow: 0 3px 3px #bbbbbb;
 }
 
-.full-image, figure.full img, img[src*="full"] {
+.full-image,
+figure.full img,
+img[src*="full"] {
   width: 100%;
   box-shadow: 0 3px 3px #bbbbbb;
 }
 
 @supports (width: 100vw) {
-  .full-image, figure.full img, img[src*="full"] {
+
+  .full-image,
+  figure.full img,
+  img[src*="full"] {
     width: 100vw;
     position: relative;
     left: 50%;
@@ -236,13 +252,18 @@ a {
   }
 }
 
-.mid-image, figure.mid img, img[src*="mid"] {
+.mid-image,
+figure.mid img,
+img[src*="mid"] {
   width: 100%;
   box-shadow: 0 3px 3px #bbbbbb;
 }
 
 @supports (width: 100vw) {
-  .mid-image, figure.mid img, img[src*="mid"] {
+
+  .mid-image,
+  figure.mid img,
+  img[src*="mid"] {
     width: 800px;
     position: relative;
     left: 50%;
@@ -250,8 +271,12 @@ a {
     margin-left: -400px;
     margin-right: -400px;
   }
+
   @media only screen and (max-width: 800px) {
-    .mid-image, figure.mid img, img[src*="mid"] {
+
+    .mid-image,
+    figure.mid img,
+    img[src*="mid"] {
       width: 100%;
       left: 0;
       right: 0;
@@ -260,7 +285,9 @@ a {
   }
 }
 
-.float-image, figure.float img, img[src*="float"] {
+.float-image,
+figure.float img,
+img[src*="float"] {
   width: 300px;
   float: left;
   margin: 0 1em 1em -3em;
@@ -268,14 +295,19 @@ a {
 }
 
 @media only screen and (max-width: 800px) {
-  .float-image, figure.float img, img[src*="float"] {
+
+  .float-image,
+  figure.float img,
+  img[src*="float"] {
     float: none;
     margin: 0;
     width: 100%;
   }
 }
 
-.float-image-right, figure.float-right img, img[src*="float-right"] {
+.float-image-right,
+figure.float-right img,
+img[src*="float-right"] {
   width: 300px;
   float: right;
   margin: 0 -3em 1em 1em;
@@ -283,7 +315,10 @@ a {
 }
 
 @media only screen and (max-width: 800px) {
-  .float-image-right, figure.float-right img, img[src*="float-right"] {
+
+  .float-image-right,
+  figure.float-right img,
+  img[src*="float-right"] {
     float: none;
     margin: 0;
     width: 100%;
