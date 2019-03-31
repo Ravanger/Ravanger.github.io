@@ -18,8 +18,8 @@
   </url>
   
   <url>
-    <loc>https://ravanger.github.io/posts/first-post/</loc>
-    <lastmod>2019-03-24T23:50:55-04:00</lastmod>
+    <loc>https://ravanger.github.io/posts/gbc-next/</loc>
+    <lastmod>2019-03-30T22:32:51-04:00</lastmod>
   </url>
   
   <url>
@@ -34,20 +34,19 @@
   </url>
   
   <url>
-    <loc>https://ravanger.github.io/tags/getting-started/</loc>
-    <lastmod>2019-03-24T23:50:55-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ravanger.github.io/posts/</loc>
-    <lastmod>2019-03-24T23:50:55-04:00</lastmod>
+    <lastmod>2019-03-30T22:32:51-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ravanger.github.io/tags/</loc>
-    <lastmod>2019-03-24T23:50:55-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ravanger.github.io/categories/web-design-and-development/</loc>
+    <lastmod>2019-03-30T22:32:51-04:00</lastmod>
     <priority>0</priority>
   </url>
   

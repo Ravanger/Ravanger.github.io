@@ -39,12 +39,13 @@
     </item>
     
     <item>
-      <title>First Post</title>
-      <link>https://ravanger.github.io/posts/first-post/</link>
-      <pubDate>Sun, 24 Mar 2019 23:50:55 -0400</pubDate>
+      <title>NEXT (George Brown College)</title>
+      <link>https://ravanger.github.io/posts/gbc-next/</link>
+      <pubDate>Sat, 30 Mar 2019 22:32:51 -0400</pubDate>
       
-      <guid>https://ravanger.github.io/posts/first-post/</guid>
-      <description>Hello Hugo World! Wew!</description>
+      <guid>https://ravanger.github.io/posts/gbc-next/</guid>
+      <description>http://yearendshow.schoolofdesign.ca Tasked with designing and building a website for George Brown College 2019&amp;rsquo;s year end show alongside a small team of people.
+For this project, I chose WordPress as the starting point.</description>
     </item>
     
   </channel>
