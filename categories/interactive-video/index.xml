@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interactive Video on Boris Rossovsky</title>
+    <link>https://www.BorisR.dev/categories/interactive-video/</link>
+    <description>Recent content in Interactive Video on Boris Rossovsky</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2019 - Boris Rossovsky</copyright>
+    <lastBuildDate>Thu, 04 Apr 2019 03:06:19 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.BorisR.dev/categories/interactive-video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interactive Video: Myrtle&#39;s Murder</title>
+      <link>https://www.BorisR.dev/posts/video-myrtlemurder/</link>
+      <pubDate>Thu, 04 Apr 2019 03:06:19 -0400</pubDate>
+      
+      <guid>https://www.BorisR.dev/posts/video-myrtlemurder/</guid>
+      <description>Tasked with writing, directing, and producing a trailer for an interactive video.
+Myrtle&amp;rsquo;s Murder is a mystery game where the player has to find the killer!
+Your browser does not support the video tag.</description>
+    </item>
+    
+  </channel>
+</rss>

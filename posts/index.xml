@@ -6,10 +6,31 @@
     <description>Recent content in Posts on Boris Rossovsky</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2019 - Boris Rossovsky</copyright>
-    <lastBuildDate>Thu, 04 Apr 2019 02:51:03 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2019 03:23:30 -0400</lastBuildDate>
     
 	<atom:link href="https://www.BorisR.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Augmented Reality: FaucetAR (In Progress)</title>
+      <link>https://www.BorisR.dev/posts/ar-faucetar/</link>
+      <pubDate>Thu, 04 Apr 2019 03:23:30 -0400</pubDate>
+      
+      <guid>https://www.BorisR.dev/posts/ar-faucetar/</guid>
+      <description>Currently in progress.
+Tasked with creating an augmented reality application, my colleague and I decided to focus on environmentalism and conservation of water and energy. Our app is a mock-up of a future app designed to lower personal impact on the environment while simultaneously saving money.</description>
+    </item>
+    
+    <item>
+      <title>Interactive Video: Myrtle&#39;s Murder</title>
+      <link>https://www.BorisR.dev/posts/video-myrtlemurder/</link>
+      <pubDate>Thu, 04 Apr 2019 03:06:19 -0400</pubDate>
+      
+      <guid>https://www.BorisR.dev/posts/video-myrtlemurder/</guid>
+      <description>Tasked with writing, directing, and producing a trailer for an interactive video.
+Myrtle&amp;rsquo;s Murder is a mystery game where the player has to find the killer!
+Your browser does not support the video tag.</description>
+    </item>
     
     <item>
       <title>Motion Graphics: First Preloader</title>
