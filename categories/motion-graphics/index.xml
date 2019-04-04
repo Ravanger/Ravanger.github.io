@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motion Graphics on Boris Rossovsky</title>
+    <link>https://www.BorisR.dev/categories/motion-graphics/</link>
+    <description>Recent content in Motion Graphics on Boris Rossovsky</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2019 - Boris Rossovsky</copyright>
+    <lastBuildDate>Thu, 04 Apr 2019 02:51:03 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.BorisR.dev/categories/motion-graphics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Motion Graphics: First Preloader</title>
+      <link>https://www.BorisR.dev/posts/motion-firstpreloader/</link>
+      <pubDate>Thu, 04 Apr 2019 02:51:03 -0400</pubDate>
+      
+      <guid>https://www.BorisR.dev/posts/motion-firstpreloader/</guid>
+      <description>Tasked with creating a branded, seamless, looping preloader with 3D qualities.
+Final version: Previous versions: </description>
+    </item>
+    
+  </channel>
+</rss>
