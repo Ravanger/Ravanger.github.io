@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Boris Rossovsky</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2019 - Boris Rossovsky</copyright>
-    <lastBuildDate>Thu, 04 Apr 2019 01:40:02 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2019 02:12:53 -0400</lastBuildDate>
     
 	<atom:link href="https://ravanger.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3D: Steampunk Chess</title>
+      <link>https://ravanger.github.io/posts/3d-steampunkchess/</link>
+      <pubDate>Thu, 04 Apr 2019 02:12:53 -0400</pubDate>
+      
+      <guid>https://ravanger.github.io/posts/3d-steampunkchess/</guid>
+      <description>Tasked with modeling, texturing, lighting, and rendering a steampunk chess set.</description>
+    </item>
     
     <item>
       <title>3D: Gramophone</title>
