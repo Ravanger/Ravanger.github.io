@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Design and Development on Boris Rossovsky</title>
-    <link>https://ravanger.github.io/categories/web-design-and-development/</link>
+    <link>https://www.BorisR.dev/categories/web-design-and-development/</link>
     <description>Recent content in Web Design and Development on Boris Rossovsky</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2019 - Boris Rossovsky</copyright>
     <lastBuildDate>Sat, 30 Mar 2019 22:32:51 -0400</lastBuildDate>
     
-	<atom:link href="https://ravanger.github.io/categories/web-design-and-development/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.BorisR.dev/categories/web-design-and-development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>NEXT (George Brown College)</title>
-      <link>https://ravanger.github.io/posts/gbc-next/</link>
+      <link>https://www.BorisR.dev/posts/gbc-next/</link>
       <pubDate>Sat, 30 Mar 2019 22:32:51 -0400</pubDate>
       
-      <guid>https://ravanger.github.io/posts/gbc-next/</guid>
+      <guid>https://www.BorisR.dev/posts/gbc-next/</guid>
       <description>yearendshow.schoolofdesign.ca Tasked with designing and developing a multi-user portfolio website for graduating students to showcase their work. Responsible for the following:
  Setting up a public Linux web server Setting up a WordPress installation Setting up a front-end publishing system in WordPress Implementing features from design Styling to fit design  For this project, I chose WordPress as the starting point.</description>
     </item>

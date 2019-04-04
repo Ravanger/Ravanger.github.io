@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Boris Rossovsky</title>
-    <link>https://ravanger.github.io/categories/</link>
+    <link>https://www.BorisR.dev/categories/</link>
     <description>Recent content in Categories on Boris Rossovsky</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2019 - Boris Rossovsky</copyright>
     <lastBuildDate>Thu, 04 Apr 2019 02:12:53 -0400</lastBuildDate>
     
-	<atom:link href="https://ravanger.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.BorisR.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>3d Modeling</title>
-      <link>https://ravanger.github.io/categories/3d-modeling/</link>
+      <link>https://www.BorisR.dev/categories/3d-modeling/</link>
       <pubDate>Thu, 04 Apr 2019 02:12:53 -0400</pubDate>
       
-      <guid>https://ravanger.github.io/categories/3d-modeling/</guid>
+      <guid>https://www.BorisR.dev/categories/3d-modeling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graphic Design</title>
-      <link>https://ravanger.github.io/categories/graphic-design/</link>
+      <link>https://www.BorisR.dev/categories/graphic-design/</link>
       <pubDate>Thu, 04 Apr 2019 00:59:36 -0400</pubDate>
       
-      <guid>https://ravanger.github.io/categories/graphic-design/</guid>
+      <guid>https://www.BorisR.dev/categories/graphic-design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web Design and Development</title>
-      <link>https://ravanger.github.io/categories/web-design-and-development/</link>
+      <link>https://www.BorisR.dev/categories/web-design-and-development/</link>
       <pubDate>Sat, 30 Mar 2019 22:32:51 -0400</pubDate>
       
-      <guid>https://ravanger.github.io/categories/web-design-and-development/</guid>
+      <guid>https://www.BorisR.dev/categories/web-design-and-development/</guid>
       <description></description>
     </item>
     

@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Boris Rossovsky</title>
-    <link>https://ravanger.github.io/</link>
+    <link>https://www.BorisR.dev/</link>
     <description>Recent content on Boris Rossovsky</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2019 - Boris Rossovsky</copyright>
     <lastBuildDate>Mon, 25 Mar 2019 00:58:00 -0400</lastBuildDate>
     
-	<atom:link href="https://ravanger.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.BorisR.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Visual</title>
-      <link>https://ravanger.github.io/visual/</link>
+      <link>https://www.BorisR.dev/visual/</link>
       <pubDate>Mon, 25 Mar 2019 00:58:00 -0400</pubDate>
       
-      <guid>https://ravanger.github.io/visual/</guid>
+      <guid>https://www.BorisR.dev/visual/</guid>
       <description>instagram.com/ravanger666
   </description>
     </item>
     
     <item>
       <title>Audio</title>
-      <link>https://ravanger.github.io/audio/</link>
+      <link>https://www.BorisR.dev/audio/</link>
       <pubDate>Mon, 25 Mar 2019 00:58:07 -0400</pubDate>
       
-      <guid>https://ravanger.github.io/audio/</guid>
+      <guid>https://www.BorisR.dev/audio/</guid>
       <description>soundcloud.com/ravanger
  </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://ravanger.github.io/contact/</link>
+      <link>https://www.BorisR.dev/contact/</link>
       <pubDate>Mon, 25 Mar 2019 00:58:07 -0400</pubDate>
       
-      <guid>https://ravanger.github.io/contact/</guid>
+      <guid>https://www.BorisR.dev/contact/</guid>
       <description>contact@BorisR.dev
  Send  </description>
     </item>
     
     <item>
       <title>3D: Steampunk Chess</title>
-      <link>https://ravanger.github.io/posts/3d-steampunkchess/</link>
+      <link>https://www.BorisR.dev/posts/3d-steampunkchess/</link>
       <pubDate>Thu, 04 Apr 2019 02:12:53 -0400</pubDate>
       
-      <guid>https://ravanger.github.io/posts/3d-steampunkchess/</guid>
+      <guid>https://www.BorisR.dev/posts/3d-steampunkchess/</guid>
       <description>Tasked with modeling, texturing, lighting, and rendering a steampunk chess set.</description>
     </item>
     
     <item>
       <title>3D: Gramophone</title>
-      <link>https://ravanger.github.io/posts/3d-gramophone/</link>
+      <link>https://www.BorisR.dev/posts/3d-gramophone/</link>
       <pubDate>Thu, 04 Apr 2019 01:40:02 -0400</pubDate>
       
-      <guid>https://ravanger.github.io/posts/3d-gramophone/</guid>
+      <guid>https://www.BorisR.dev/posts/3d-gramophone/</guid>
       <description>Tasked with modeling, texturing, lighting, and rendering a gramophone with &amp;ldquo;a modern twist.&amp;rdquo;</description>
     </item>
     
     <item>
       <title>Ad: Orbital Ordnance</title>
-      <link>https://ravanger.github.io/posts/orbitalordnance/</link>
+      <link>https://www.BorisR.dev/posts/orbitalordnance/</link>
       <pubDate>Thu, 04 Apr 2019 00:59:36 -0400</pubDate>
       
-      <guid>https://ravanger.github.io/posts/orbitalordnance/</guid>
+      <guid>https://www.BorisR.dev/posts/orbitalordnance/</guid>
       <description>Tasked with designing a brand for a mobile app, followed by a long-form image to advertise the app.</description>
     </item>
     
     <item>
       <title>Icons: First Vector Art</title>
-      <link>https://ravanger.github.io/posts/icons-firstvectorart/</link>
+      <link>https://www.BorisR.dev/posts/icons-firstvectorart/</link>
       <pubDate>Thu, 04 Apr 2019 00:25:20 -0400</pubDate>
       
-      <guid>https://ravanger.github.io/posts/icons-firstvectorart/</guid>
+      <guid>https://www.BorisR.dev/posts/icons-firstvectorart/</guid>
       <description>My first venture into vector art and iconography. Tasked by &amp;ldquo;Harold Bezingle&amp;rdquo; (my college instructor, Neil van der King) to create two sets of icons for two different demographics.</description>
     </item>
     
     <item>
       <title>NEXT (George Brown College)</title>
-      <link>https://ravanger.github.io/posts/gbc-next/</link>
+      <link>https://www.BorisR.dev/posts/gbc-next/</link>
       <pubDate>Sat, 30 Mar 2019 22:32:51 -0400</pubDate>
       
-      <guid>https://ravanger.github.io/posts/gbc-next/</guid>
+      <guid>https://www.BorisR.dev/posts/gbc-next/</guid>
       <description>yearendshow.schoolofdesign.ca Tasked with designing and developing a multi-user portfolio website for graduating students to showcase their work. Responsible for the following:
  Setting up a public Linux web server Setting up a WordPress installation Setting up a front-end publishing system in WordPress Implementing features from design Styling to fit design  For this project, I chose WordPress as the starting point.</description>
     </item>
