@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Boris Rossovsky</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2019 - Boris Rossovsky</copyright>
-    <lastBuildDate>Sat, 30 Mar 2019 22:32:51 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2019 00:25:20 -0400</lastBuildDate>
     
 	<atom:link href="https://ravanger.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Icons: First Vector Art</title>
+      <link>https://ravanger.github.io/posts/icons-firstvectorart/</link>
+      <pubDate>Thu, 04 Apr 2019 00:25:20 -0400</pubDate>
+      
+      <guid>https://ravanger.github.io/posts/icons-firstvectorart/</guid>
+      <description>My first venture into vector art and iconography. Tasked by &amp;ldquo;Harold Bezingle&amp;rdquo; (my college instructor, Neil van der King) to create two sets of icons for two different demographics.</description>
+    </item>
     
     <item>
       <title>NEXT (George Brown College)</title>
