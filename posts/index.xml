@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Boris Rossovsky</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2019 - Boris Rossovsky</copyright>
-    <lastBuildDate>Thu, 04 Apr 2019 03:23:30 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2019 00:32:08 -0400</lastBuildDate>
     
 	<atom:link href="https://www.BorisR.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Restoration: Old Family Photo 1</title>
+      <link>https://www.BorisR.dev/posts/restoration01/</link>
+      <pubDate>Fri, 05 Apr 2019 00:32:08 -0400</pubDate>
+      
+      <guid>https://www.BorisR.dev/posts/restoration01/</guid>
+      <description>Restoration of an old family photograph for a client.
+Restored: Original: </description>
+    </item>
     
     <item>
       <title>Augmented Reality: FaucetAR (In Progress)</title>
