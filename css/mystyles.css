@@ -75,3 +75,16 @@
     width: 100%;
     box-shadow: 3px 3px 5px #888888;
 }
+
+div.subnav {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+div.subnav a {
+    text-decoration: none;
+    padding: 0 0.5rem;
+    white-space: nowrap;
+    font-family: "Ruda", sans-serif;
+    font-size: 1rem;
+}
